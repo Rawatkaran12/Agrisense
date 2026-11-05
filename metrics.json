@@ -1,0 +1,8 @@
+{
+  "baseline_logreg_accuracy": 0.9727,
+  "random_forest_cv_accuracy": 0.9949,
+  "random_forest_test_accuracy": 0.9932,
+  "random_forest_test_f1_macro": 0.9932,
+  "n_train": 1760,
+  "n_test": 440
+}
